@@ -14,18 +14,18 @@ The level of realism in virtual crowds is strongly affected by the presence of d
 <br>
 
 <p align="center"><strong>
-	- <a href="..." target="_blank">Publication</a>  | <a href="..." target="_blank">PDF Paper</a> | <a href="https://youtu.be/7w9WhwZmAfU" target="_blank">Video</a> -
+	- <a href="#" target="_blank">Publication</a> | <a href="https://github.com/veupnea/CEDRL/blob/main/PDF%20Files/eg25-CEDRL.pdf" target="_blank">PDF Paper</a> | <a href="https://github.com/veupnea/CEDRL/blob/main/PDF%20Files/eg25-CEDRL-Supp.pdf" target="_blank">Supplementary Material (PDF)</a> | <a href="https://youtu.be/Z_zhc2Y5VWU" target="_blank">Video</a> -
 </strong>
 </p>
 
 <p align="center"><strong>
- <a href="..." target="_blank">Project Page at VEUPNEA Website
+ <a href="https://veupnea.github.io/publication_pages/eg25-cedrl.html" target="_blank">Project Page at VEUPNEA Website
 </strong></p>
 
 <br>
 
 <p align="center" dir="auto">
-	<a href="https://youtu.be/7w9WhwZmAfU" rel="nofollow">
+	<a href="https://youtu.be/Z_zhc2Y5VWU" rel="nofollow">
 		<img align="center" width="400px" src="https://github.com/veupnea/CEDRL/blob/main/Images/youtube_image.png"/>
 	</a>
 </p>
