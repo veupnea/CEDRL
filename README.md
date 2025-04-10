@@ -18,7 +18,7 @@ The level of realism in virtual crowds is strongly affected by the presence of d
 <br>
 
 <p align="center"><strong>
-	- <a href="#" target="_blank">Publication</a> | <a href="https://github.com/veupnea/CEDRL/blob/main/PDF%20Files/eg25-CEDRL.pdf" target="_blank">PDF Paper</a> | <a href="https://github.com/veupnea/CEDRL/blob/main/PDF%20Files/eg25-CEDRL-Supp.pdf" target="_blank">Supplementary Material (PDF)</a> | <a href="https://youtu.be/Z_zhc2Y5VWU" target="_blank">Video</a> -
+	- <a href="https://doi.org/10.1111/cgf.70015" target="_blank">Publication</a> | <a href="https://github.com/veupnea/CEDRL/blob/main/PDF%20Files/eg25-CEDRL.pdf" target="_blank">PDF Paper</a> | <a href="https://github.com/veupnea/CEDRL/blob/main/PDF%20Files/eg25-CEDRL-Supp.pdf" target="_blank">Supplementary Material (PDF)</a> | <a href="https://youtu.be/Z_zhc2Y5VWU" target="_blank">Video</a> -
 </strong>
 </p>
 
